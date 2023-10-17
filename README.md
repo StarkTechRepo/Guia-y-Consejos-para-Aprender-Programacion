@@ -18,7 +18,6 @@
 - [Extensiones y herramientas para HTML/CSS](#extensiones-y-herramientas-para-htmlcss)
 - [Herramientas para probar y testear código](#herramientas-para-probar-y-testear-código)
 - [Atajos en Visual Studio Code](#atajos-en-visual-studio-code)
-- [Licencia](#licencia)
 
 ## Por Qué Deberías Aprender a Programar
 
