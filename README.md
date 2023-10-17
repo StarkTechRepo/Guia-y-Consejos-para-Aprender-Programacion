@@ -1,4 +1,4 @@
-## Guía y Consejos para Principiantes en Programación
+## Guía y Consejos para Aprender Programación (Para Novato)
 
 ![imagen](foto.jpg)
 
