@@ -1,1 +1,3 @@
-# Gu-a-y-Consejos-para-Principiantes-en-Programaci-n
+## Guía y Consejos para Principiantes en Programación
+
+![imagen](foto.jpg)
