@@ -18,6 +18,8 @@
 - [Extensiones y herramientas para HTML/CSS](#extensiones-y-herramientas-para-htmlcss)
 - [Herramientas para probar y testear código](#herramientas-para-probar-y-testear-código)
 - [Atajos en Visual Studio Code](#atajos-en-visual-studio-code)
+- [Influencias Recomendadas para Aprender Programación](#influencias-recomendadas-para-aprender-programación
+)
 
 ## Por Qué Deberías Aprender a Programar
 
@@ -258,6 +260,14 @@ Existen muchas extensiones, herramientas y programas que pueden ayudar a los des
 - [Indeed](https://www.indeed.com/): Este sitio web de empleo publica datos sobre los salarios y las ofertas de empleo para diferentes puestos de trabajo.
 
 - [Glassdoor](https://www.glassdoor.com/): Este sitio web de reseñas de empresas publica datos sobre los salarios y las ofertas de empleo para diferentes puestos de trabajo.
+
+## Influencias Recomendadas para Aprender Programación
+
+- [Midu Dev](https://www.youtube.com/c/midudev)
+- [MaureDev](https://www.youtube.com/@mouredev)
+- [TodoCode](https://www.youtube.com/@TodoCode)
+- [Soy Dalto](https://www.youtube.com/@soydalto)
+- [S4vitar](https://www.youtube.com/@S4vitar)
 
 ## Licencia
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
