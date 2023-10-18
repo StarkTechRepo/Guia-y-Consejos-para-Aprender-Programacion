@@ -261,7 +261,7 @@ Existen muchas extensiones, herramientas y programas que pueden ayudar a los des
 
 - [Glassdoor](https://www.glassdoor.com/): Este sitio web de reseñas de empresas publica datos sobre los salarios y las ofertas de empleo para diferentes puestos de trabajo.
 
-## Influenza Recomendada para Aprender Programación
+## Influencia Recomendada para Aprender Programación
 
 - [Midu Dev](https://www.youtube.com/c/midudev)
 - [MaureDev](https://www.youtube.com/@mouredev)
