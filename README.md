@@ -5,6 +5,8 @@
 ## Indice:
 
 - [Por Qué Deberías Aprender a Programar](#por-qué-deberías-aprender-a-programar)
+- [Algunas razones para considerar aprender a programar:](#algunas-razones-para-considerar-aprender-a-programar)
+  [Aprendizaje Autodidacta vs. Universidad en Programación e Informática](#aprendizaje-autodidacta-vs-universidad-en-programación-e-informática)
 - [¿Cómo empezar?](#cómo-empezar)
 - [¿Qué lenguaje de programación debo aprender?](#qué-lenguaje-de-programación-debo-aprender)
 - [Consejos para Principiantes](#consejos-para-principiantes)
@@ -18,7 +20,7 @@
 - [Extensiones y herramientas para HTML/CSS](#extensiones-y-herramientas-para-htmlcss)
 - [Herramientas para probar y testear código](#herramientas-para-probar-y-testear-código)
 - [Atajos en Visual Studio Code](#atajos-en-visual-studio-code)
-- [Influencias Recomendadas para Aprender Programación](#influencia-recomendada-para-aprender-programación)
+- [Recursos Recomendados para Aprender Programación](#recursos-recomendados-para-aprender-programación)
 
 # Por Qué Deberías Aprender a Programar
 
@@ -45,6 +47,24 @@ La programación es una habilidad que te abrirá innumerables oportunidades prof
 9. **Flexibilidad y Movilidad**: Puedes trabajar como programador desde cualquier lugar con acceso a una computadora e internet, lo que te brinda flexibilidad y movilidad en tu carrera.
 
 10. **Satisfacción Personal**: La programación puede ser gratificante. Ver tus proyectos cobrar vida y solucionar problemas reales puede brindarte una gran satisfacción personal.
+
+# Aprendizaje Autodidacta vs. Universidad en Programación e Informática
+En el mundo de la programación e informática, no siempre es necesario asistir a la universidad. Aquí hay algunas consideraciones importantes:
+
+#### Universidad
+- Proporciona una base teórica sólida.
+- Ofrece un título académico reconocido.
+- Puede ser necesario para ciertos trabajos, especialmente en investigación o académicos.
+- A menudo es costoso en términos de tiempo y dinero.
+
+#### Aprendizaje Autodidacta
+- Enfocado en habilidades prácticas.
+- Aprendizaje flexible y personalizado.
+- Aprender haciendo, a través de proyectos y práctica.
+- Cometer errores y aprender de ellos.
+- Utilizar recursos en línea, cursos, tutoriales y proyectos personales.
+- Ganar experiencia real en el mundo laboral.
+- Empresas a menudo valoran habilidades prácticas y experiencia más que títulos académicos.
 
 # ¿Cómo empezar?
 
