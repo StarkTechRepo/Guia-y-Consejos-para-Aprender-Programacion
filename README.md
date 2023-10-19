@@ -5,8 +5,8 @@
 ## Indice:
 
 - [Por Qué Deberías Aprender a Programar](#por-qué-deberías-aprender-a-programar)
-- [Algunas razones para considerar aprender a programar:](#algunas-razones-para-considerar-aprender-a-programar)
-  [Aprendizaje Autodidacta vs. Universidad en Programación e Informática](#aprendizaje-autodidacta-vs-universidad-en-programación-e-informática)
+- [Algunas razones para considerar aprender a programar](#algunas-razones-para-considerar-aprender-a-programar)
+- [Autodidacta vs. Universidad en Programación e Informática](#autodidacta-vs-universidad-en-programación-e-informática)
 - [¿Cómo empezar?](#cómo-empezar)
 - [¿Qué lenguaje de programación debo aprender?](#qué-lenguaje-de-programación-debo-aprender)
 - [Consejos para Principiantes](#consejos-para-principiantes)
@@ -48,7 +48,7 @@ La programación es una habilidad que te abrirá innumerables oportunidades prof
 
 10. **Satisfacción Personal**: La programación puede ser gratificante. Ver tus proyectos cobrar vida y solucionar problemas reales puede brindarte una gran satisfacción personal.
 
-# Aprendizaje Autodidacta vs. Universidad en Programación e Informática
+# Autodidacta vs. Universidad en Programación e Informática
 En el mundo de la programación e informática, no siempre es necesario asistir a la universidad. Aquí hay algunas consideraciones importantes:
 
 #### Universidad
