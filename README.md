@@ -89,7 +89,7 @@ Para prosperar como programador principiante, ten en cuenta los siguientes conse
    - Únete a comunidades en línea, Puedes hacer preguntas, compartir tus proyectos y aprender de otros programadores.
 
 #### 11. Libros de Programación
-   - Explora libros de programación recomendados. Algunos clásicos incluyen "Aprende Python the Hard Way" de Zed Shaw y "Eloquent JavaScript" de Marijn Haverbeke.
+   - Explora libros de programación recomendados.
 
 #### 12. Prueba Proyectos de Código Abierto
    - Contribuir a proyectos de código abierto es una excelente manera de ganar experiencia. Puedes encontrar proyectos en GitHub y empezar a colaborar.
