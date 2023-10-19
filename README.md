@@ -1,4 +1,4 @@
-## Guía y Consejos para Aprender Programación (Para Novato)
+# Guía y Consejos para Aprender Programación (Para Novato)
 
 ![imagen](foto.jpg)
 
@@ -18,10 +18,9 @@
 - [Extensiones y herramientas para HTML/CSS](#extensiones-y-herramientas-para-htmlcss)
 - [Herramientas para probar y testear código](#herramientas-para-probar-y-testear-código)
 - [Atajos en Visual Studio Code](#atajos-en-visual-studio-code)
-- [Influencias Recomendadas para Aprender Programación](#influencias-recomendadas-para-aprender-programación
-)
+- [Influencias Recomendadas para Aprender Programación](#influencia-recomendada-para-aprender-programación)
 
-## Por Qué Deberías Aprender a Programar
+# Por Qué Deberías Aprender a Programar
 
 La programación es una habilidad que te abrirá innumerables oportunidades profesionales en la era digital actual, y es altamente valorada en el mercado laboral. Los programadores son los artífices de software esenciales que impulsan una amplia gama de aplicaciones, desde sitios web y aplicaciones móviles hasta sistemas operativos y videojuegos. Aprender a programar también te entrena en el pensamiento lógico y resolución de problemas, ayudándote a enfrentar desafíos complejos de manera sistemática.
 
@@ -47,31 +46,60 @@ La programación es una habilidad que te abrirá innumerables oportunidades prof
 
 10. **Satisfacción Personal**: La programación puede ser gratificante. Ver tus proyectos cobrar vida y solucionar problemas reales puede brindarte una gran satisfacción personal.
 
-## ¿Cómo empezar?
+# ¿Cómo empezar?
 
 El camino hacia la programación puede ser personalizado según tu estilo de aprendizaje. Puedes optar por cursos en línea o presenciales, sumergirte en libros y tutoriales, o incluso aventurarte por tu cuenta y experimentar.
 
-## ¿Qué lenguaje de programación debo aprender?
+# ¿Qué lenguaje de programación debo aprender?
 
 Para principiantes, es sabio comenzar con lenguajes accesibles y versátiles. Algunas opciones recomendadas incluyen Python, JavaScript o HTML/CSS. Estos lenguajes te brindarán una base sólida y te permitirán explorar diferentes aspectos de la programación.
 
-## Consejos para Principiantes:
+# Consejos para Principiantes:
 
 Para prosperar como programador principiante, ten en cuenta los siguientes consejos:
 
-1. **Comienza con lo Básico:** Antes de lanzarte a crear proyectos, asegúrate de dominar los conceptos fundamentales de la programación.
+#### 1. Elije una Rama de Programación
+   - Antes de comenzar, elige un área de programación que te interese. Puede ser desarrollo web, aplicaciones móviles, inteligencia artificial, juegos, o cualquier otra. La motivación es esencial.
 
-2. **Practica, Practica, Practica:** La práctica constante es la clave para el aprendizaje efectivo. Crea proyectos pequeños para aplicar tus habilidades y consolidar tu conocimiento.
+#### 2. Realiza Mini Proyectos
+   - Inicia tu viaje de programación realizando pequeños proyectos. Comienza con aplicaciones sencillas que puedas completar en poco tiempo. Esto te ayudará a aplicar lo que aprendes.
 
-3. **No Te Rindas:** Aprender a programar puede ser desafiante, pero la persistencia es la clave del éxito. Con dedicación y práctica constante, lograrás tus objetivos.
+#### 3. Aprende Haciendo
+   - La mejor manera de aprender a programar es a través de la práctica constante. No solo leas sobre programación, ¡hazlo! Escribe código y experimenta por ti mismo.
 
-4. **Sigue Tu Pasión:** Elige proyectos que te entusiasmen; será más sencillo mantener la motivación cuando trabajas en algo que te apasiona.
+#### 4. Utiliza la Técnica de Descomposición
+   - La técnica de descomposición implica descomponer un proyecto en pasos más pequeños y manejables. Comienza por buscar cómo hacer una tarea específica en Google, impleméntala y luego agrega funcionalidades adicionales.
 
-5. **Busca Ayuda Cuando Sea Necesario:** No dudes en pedir ayuda a otros programadores o recurrir a recursos en línea cuando te encuentres con obstáculos.
+#### 5. Empieza con Proyectos Pequeños
+   - Comienza con proyectos que sean simples y tengan menos de 100 líneas de código. Ejemplos incluyen contadores, cronómetros y buscadores básicos. La simplicidad te ayudará a entender conceptos fundamentales.
 
-6. **Únete a una Comunidad:** Participar en comunidades en línea o grupos de programación te proporcionará apoyo y te permitirá conectarte con otros entusiastas de la programación.
+#### 6. Clona una Página Web Básica
+   - Un excelente ejercicio para principiantes es clonar una página web básica. Escoge una página simple y trata de recrearla utilizando HTML y CSS. Esto te ayudará a comprender cómo funcionan las estructuras de las páginas web.
 
-## Pautas generales
+#### 7. Aprende los Principios Básicos
+   - Dedica tiempo a aprender los principios fundamentales de la programación. Esto incluye conceptos como bucles, variables, condicionales, funciones y más. Dominar estos fundamentos es esencial antes de avanzar.
+
+#### 8. Documentación y Tutoriales
+   - Aprovecha la documentación oficial de lenguajes y frameworks, así como tutoriales disponibles en línea. Estos recursos te ayudarán a comprender cómo funciona la programación.
+
+#### 9. Prueba Herramientas de Desarrollo
+   - Instala un entorno de desarrollo integrado (IDE) para tu lenguaje de programación preferido. IDEs como Visual Studio Code, PyCharm y Eclipse son excelentes opciones.
+
+#### 10. Comunidad de Programadores
+   - Únete a comunidades en línea, Puedes hacer preguntas, compartir tus proyectos y aprender de otros programadores.
+
+#### 11. Libros de Programación
+   - Explora libros de programación recomendados. Algunos clásicos incluyen "Aprende Python the Hard Way" de Zed Shaw y "Eloquent JavaScript" de Marijn Haverbeke.
+
+#### 12. Prueba Proyectos de Código Abierto
+   - Contribuir a proyectos de código abierto es una excelente manera de ganar experiencia. Puedes encontrar proyectos en GitHub y empezar a colaborar.
+
+#### 13. Creación de Redes
+   - Conecta con otros programadores en conferencias, hackathones y grupos de Meetup. La creación de redes puede ayudarte a aprender y encontrar oportunidades profesionales.
+
+Recuerda que la programación es un proceso de aprendizaje continuo. No temas cometer errores, ya que son una parte natural del proceso. A medida que avanzas, podrás construir proyectos más complejos y avanzar en tu carrera de programación.
+
+# Pautas generales
 
 Aquí hay algunas pautas generales para practicar programación:
 
@@ -80,7 +108,7 @@ Aquí hay algunas pautas generales para practicar programación:
 - Prueba tu código regularmente para asegurarte de que funciona correctamente.
 - Lee el código de otros programadores para aprender de sus técnicas.
 
-## ¿Dónde puedo encontrar recursos para aprender a programar?
+# ¿Dónde puedo encontrar recursos para aprender a programar?
 
 Descubre una variedad de recursos en línea para impulsar tu aprendizaje en programación:
 
@@ -110,7 +138,7 @@ Algunos sitios web populares de desafíos de programación:
 
 - [Project Euler](https://projecteuler.net/): Ofrece problemas matemáticos que requieren programación para resolverlos.
 
-## Aprender programación jugando
+# Aprender programación jugando
 
 También puedes aprender programación de una manera divertida, jugando. Existen muchas páginas web y aplicaciones que ofrecen juegos y actividades de programación que pueden ser muy útiles para aprender los conceptos básicos:
 
@@ -126,7 +154,7 @@ También puedes aprender programación de una manera divertida, jugando. Existen
 
 - [CheckIO](https://checkio.org/): Desarrolla tus habilidades de programación resolviendo misiones en un entorno de juego.
 
-## Mejores Editores y Herramientas para Programar:
+# Mejores Editores y Herramientas para Programar:
 
 **Para Principiantes:**
 
@@ -205,7 +233,7 @@ Para probar y testear tu código en línea, puedes usar una de las muchas herram
 
 Existen muchas extensiones, herramientas y programas que pueden ayudar a los desarrolladores a programar de forma más eficiente y efectiva.
 
-## Atajos en Visual Studio Code:
+# Atajos en Visual Studio Code:
 
 - `Ctrl + C`: Copiar
 - `Ctrl + X`: Cortar
@@ -249,7 +277,7 @@ Existen muchas extensiones, herramientas y programas que pueden ayudar a los des
 - `F12`: Paso a paso por función
 - `Ctrl + F5`: Depurar sin abrir el depurador
 
-### Estadísticas sobre el Campo de la Programación
+# Estadísticas sobre el Campo de la Programación
 
 - [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey): Esta encuesta anual realizada a más de 100.000 desarrolladores de todo el mundo recopila datos sobre una amplia gama de temas, incluyendo los lenguajes de programación más populares, las herramientas y tecnologías más utilizadas, y los salarios promedio.
 
@@ -261,7 +289,7 @@ Existen muchas extensiones, herramientas y programas que pueden ayudar a los des
 
 - [Glassdoor](https://www.glassdoor.com/): Este sitio web de reseñas de empresas publica datos sobre los salarios y las ofertas de empleo para diferentes puestos de trabajo.
 
-## Influencia Recomendada para Aprender Programación
+# Influencia Recomendada para Aprender Programación
 
 - [Midu Dev](https://www.youtube.com/c/midudev)
 - [MaureDev](https://www.youtube.com/@mouredev)
@@ -270,7 +298,7 @@ Existen muchas extensiones, herramientas y programas que pueden ayudar a los des
 - [S4vitar](https://www.youtube.com/@S4vitar)
 - [mastermind](https://www.mastermind.ac/)
 
-## Licencia
+# Licencia
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
 
 
